@@ -1,0 +1,36 @@
+# Python virtual environment
+.venv/
+venv/
+ENV/
+env/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# macOS
+.DS_Store
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VSCode and other editor configs
+.vscode/
+.idea/
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# OS generated files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Python test/cache
+.cache/
+pytest_cache/
+
+# Environment variable files (if used)
+.env
