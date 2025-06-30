@@ -1,14 +1,15 @@
 # 🧹 Filename Renamer
 
-A Python script to **standardize and clean filenames** (especially from DJI, InShot, WhatsApp, and Google Camera) by extracting and formatting timestamps or IDs from filenames.
+A Python script to **standardize and clean filenames** (especially from WhatsApp, DJI and Pixel) by extracting and formatting timestamps or IDs from filenames.
 
 ## 📦 Features
 
 - Renames files like `DJI_20241202184624_0004_D` → `20241202_184624_0004_D`
 - Supports multiple filename patterns from:
   - DJI (Drone, Mimo, Export)
-  - InShot, Google Pixel (PXL)
   - WhatsApp (IMG, VID)
+  - Google Pixel (PXL)
+  - InShot
   - Generic exports with embedded timestamps
 - Preview mode for dry-run testing
 - Command-line interface
@@ -81,4 +82,4 @@ MIT License. Feel free to use, modify, and share.
 
 ## 🙏 Credits
 
-Created by \Rizki Ramadiansyah — for anyone tired of messy camera roll exports.
+Created by \Rizki Ramadiansyah — for anyone tired of messy camera roll exports 😅.
