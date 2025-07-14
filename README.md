@@ -25,7 +25,7 @@ A Python script to **standardize and clean filenames** (especially from WhatsApp
 Clone the repo:
 
 ```bash
-git clone https://github.com/your-username/filename-renamer.git
+git clone https://github.com/ramadiansyah/filename-renamer.git
 cd filename-renamer
 ````
 
